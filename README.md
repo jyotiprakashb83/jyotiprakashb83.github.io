@@ -9,8 +9,8 @@ My Current GITHUB projects:
 1. <a href="https://github.com/jyotiprakashb83/selenium-mcp-server-ai" target="_blank">Selenium MCP Server with AI </a>
 This JAVA MAVEN TESTNG Project implements a Selenium Master Control Program (MCP) server in Java that executes browser automation tasks by converting natural language test steps into Selenium WebDriver commands using a Language Model (LLM). The server supports local Ollama or remote LLM endpoints and is configurable via property files. A TestNG-based client is included to send test prompts and log results.
 
-2. <a href="https://github.com/jyotiprakashb83/Math-Practice-Generator.github.io" target="_blank">Selenium MCP Server withAI </a>
-   Quick Maths Practice Generator
+2. <a href="https://github.com/jyotiprakashb83/Math-Practice-Generator.github.io" target="_blank">Math Practice Generator</a>
+   Quick Maths Practice Generator, one click and it generates math worksheets for FREE
 
 - 🔭 I’m currently working on ... No code automation testing
 - 🌱 I’m currently learning ... Model fine tuning
