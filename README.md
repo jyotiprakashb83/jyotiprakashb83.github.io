@@ -6,7 +6,7 @@ My newsletter - **Everything AI & Testing** - <a href="https://www.linkedin.com/
 "Everything AI & Testing" is your go-to newsletter for the latest insights, trends, and resources in AI and Testing.
 
 My Current GITHUB projects: 
-1. <a href="https://github.com/jyotiprakashb83/selenium-mcp-server-ai" target="_blank">Selenium MCP Server with AI </a>
+1. <a href="https://github.com/jyotiprakashb83/mcp-selenium-server-ai" target="_blank">MCP Selenium Server with AI </a>
 This JAVA MAVEN TESTNG Project implements a Selenium Master Control Program (MCP) server in Java that executes browser automation tasks by converting natural language test steps into Selenium WebDriver commands using a Language Model (LLM). The server supports local Ollama or remote LLM endpoints and is configurable via property files. A TestNG-based client is included to send test prompts and log results.
 
 2. <a href="https://github.com/jyotiprakashb83/Math-Practice-Generator.github.io" target="_blank">Math Practice Generator</a>
