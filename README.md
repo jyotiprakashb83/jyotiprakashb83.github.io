@@ -26,7 +26,7 @@ Outside work, I'm a Landmark Forum graduate. Let's connect to explore AI, dev & 
 - <a href="https://www.linkedin.com/in/jyotiprakash123" target="_blank">Linkedin</a> - Linkedin Profile
 - <a href="https://stackoverflow.com/users/2206295/jyoti-prakash" target="_blank">Stackoverflow</a> - Stackoverflow Profile
 - <a href="https://www.linkedin.com/groups/14780023/" target="_blank">AI LLM Evals & Testing Forum</a> - Linkedin Forum Host
-- <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7270166969893425153" target="_blank">Everything AI & Testing</a> - My newsletter on Linkedin is your go-to newsletter for the latest insights, trends, and resources in AI and Testing.
+- <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7270166969893425153" target="_blank">Everything AI</a> - My newsletter on Linkedin is your go-to newsletter for the latest insights, trends, and resources in AI.
 
 **My Current GITHUB projects:**
 1. <a href="https://github.com/jyotiprakashb83/mcp-selenium-server-ai" target="_blank">MCP Selenium Server with AI </a>
