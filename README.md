@@ -6,10 +6,10 @@ With over a decade of experience in Quality Engineering, Test Automation, and En
 
 I have led large-scale modernization initiatives, including migration of legacy Selenium frameworks to Playwright, development of AI-powered test generation and remediation platforms, and implementation of intelligent automation solutions that significantly reduce manual effort while improving reliability and scalability.
 
-Areas of expertise:
+**Areas of expertise:**
 - Agentic AI & AI-Native Engineering
 - AI-Powered Test Automation
-- Playwright & Modern Test Frameworks
+- Modern Functional Test Frameworks & Evals
 - Quality Engineering Transformation
 - Enterprise Automation Strategy
 - AWS Cloud & Scalable Architectures
